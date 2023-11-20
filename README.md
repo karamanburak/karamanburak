@@ -4,9 +4,9 @@
 
 ## 👨‍💻 About Me
 
--  **** I'm Full Stack Developer</font>
--  **** My developer career started in 2023, and it goes on...</font>
--  **** Currently, I am focusing on React, Javascript, SASS, Bootstrap...</font>
+-  **I'm Full Stack Developer**
+-  **My developer career started in 2023, and it goes on...**
+-  **Currently, I am focusing on React, Javascript, SASS, Bootstrap...**
 
 
 <br></br>
