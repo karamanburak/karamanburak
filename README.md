@@ -1,12 +1,9 @@
-##   :snowboarder: :man-bowing: :wave::skin-tone-2: Hi there, I am Burak
-<img src="https://github-readme-stats.vercel.app/api?username=krmnbrk&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
-<font color="pink"> :snowboarder: I'm React & React Native Developer</font>
+ Hi there, I am Burak
 </br>
-<font color="pink"> :man-bowing: I quit my job to be a developer.</font>
 </br>
 <font color="pink"> :male-technologist: Nowadays I am learning iOS Development.</font>
 </br>
-<font color="pink"> :fire: My developer career started in 2020, and it goes on...</font>
+<font color="pink"> :fire: My developer career started in 2023, and it goes on...</font>
 <br>
 <font color="pink"> :rocket: Currently, I am focusing on React, Javascript, SASS, Bootstrap...</font>
 
@@ -15,7 +12,7 @@
 #### :mailbox_with_mail: Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harveyy/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:harvey@clarusway.com)
+[![website](https://cdn.mos.cms.futurecdn.net/Un5CRWVYRDC769ZrkZKAjn.jpg)](mailto:krmnbrk@outlook.com)
 
 
 
