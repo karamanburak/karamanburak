@@ -9,7 +9,7 @@
 <font color="pink"> :rocket: Currently, I am focusing on React, Javascript, SASS, Bootstrap...</font>
 
 <br></br>
-![](https://komarev.com/ghpvc/?username=krmnbrk&color=green&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Burak&color=green&style=for-the-badge)
 #### :mailbox_with_mail: Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harveyy/)
