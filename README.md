@@ -2,9 +2,8 @@
  <img src="https://github-readme-stats.vercel.app/api?username=krmnbrk&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
 </br>
 </br>
-<font color="pink"> :male-technologist: Nowadays I am learning iOS Development.</font>
-</br>
 <font color="pink"> :fire: My developer career started in 2023, and it goes on...</font>
+<br>
 <br>
 <font color="pink"> :rocket: Currently, I am focusing on React, Javascript, SASS, Bootstrap...</font>
 
