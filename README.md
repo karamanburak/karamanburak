@@ -1,5 +1,5 @@
-##  Hi there, I am Burak
- <img src="https://github-readme-stats.vercel.app/api?username=krmnbrk&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
+<h2> Hello There! I'm Burak<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=karamanburak&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/> -->
  <font color="pink"> :snowboarder: I'm Full Stack Developer</font>
 </br>
 </br>
@@ -70,7 +70,7 @@
 <br/>
      
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=krmnbrk&langs_count=8"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&langs_count=8"
      alt="" width="350"
      /> <br/>
 </div>
