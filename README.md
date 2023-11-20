@@ -9,6 +9,16 @@
 -  **Currently, I am focusing on React, Javascript, SASS, Bootstrap...**
 
 
+<!-- ## 👨‍💻 Professional Skills
+
+-  **B**  Golang, Java, Python, Node.js (ExpressJS, NestJS)
+-  **Queue:**  RabbitMQ, Kafka
+-  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes, Jenkins, Redis
+-  **Logging:**  Prometheus, Datadog
+-  **FrontEnd:**  Angular, React, NextJS
+-  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB, DynamoDB) -->
+
+
 <br></br>
 ![](https://komarev.com/ghpvc/?username=Burak&color=green&style=for-the-badge)
 #### :mailbox_with_mail: Connect with me:
