@@ -1,13 +1,12 @@
 <h2> Hello There! I'm Burak<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=karamanburak&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/> -->
-<img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
+<img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/>
 
 ## 👨‍💻 About Me
 
--  **I'm Full Stack Developer**
--  **My developer career started in 2023, and it goes on...**
--  **Currently, I am focusing on React, Javascript, SASS, Bootstrap...**
-
+- **I'm Full Stack Developer**
+- **My developer career started in 2023, and it goes on...**
+- **Currently, I am focusing on React, Javascript, SASS, Bootstrap...**
 
 <!-- ## 👨‍💻 Professional Skills
 
@@ -18,19 +17,17 @@
 -  **FrontEnd:**  Angular, React, NextJS
 -  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB, DynamoDB) -->
 
-
 <br></br>
-![](https://komarev.com/ghpvc/?username=Burak&color=green&style=for-the-badge)
+
 #### :mailbox_with_mail: Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:burak.karaman.1994@gmail.com)
 
-
-
 </br>
 
-## :rocket: Skills
+## ⭐️ Skills
+
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="45"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="gitHub" height="45"/> </a> 
@@ -64,13 +61,9 @@
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="40"/> </a>
 
-
-
 <!-- ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|------------------------- -->
-
-
 
 </div>
 </br>
