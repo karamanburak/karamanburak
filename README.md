@@ -76,7 +76,8 @@
 <br>
 
 <div  align="center">
- <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Horjet&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
+ <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
 <br/>
      
+  
 </div>
