@@ -75,13 +75,8 @@
 </br>
 <br>
 
-<h2 align="center">:bulb:Most Used Language</h2>
 <div  align="center">
+ <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Horjet&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
 <br/>
      
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&langs_count=8"
-     alt="" width="350"
-     /> <br/>
-  
 </div>
