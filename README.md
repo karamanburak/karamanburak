@@ -1,7 +1,7 @@
 <h2> Hello There! I'm Burak<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
 
-<img style="margin-top: 50px" align="right"  src="personal.gif" width='200'/> 
+<img z-index=1 align="right"  src="personal.gif" width='200'/> 
 
 ## 👨‍💻 About Me
 
