@@ -1,9 +1,9 @@
 <h2> Hello There! I'm Burak<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<img align="right" src="personal.gif" width='200'/> 
 
 
 ## 👨‍💻 About Me
+<img align="right" src="personal.gif" width='200'/> 
 
 - **I'm Full Stack Developer**
 - **My developer career started in 2023, and it goes on...**
