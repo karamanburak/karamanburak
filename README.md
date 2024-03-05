@@ -73,7 +73,7 @@
 
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look |Source Code
-:-------------------------|-------------------------|-------------------------
+:-------------------------|-------------------------|-------------------------|------------------
 [Task-Tracker-React](https://task-tracker-w-react.netlify.app/) | React, React-Bootstrap, LocalStorage, React-Icons [Task Tracker](https://github.com/karamanburak/Task-Tracker-React/blob/main/src/components/helper/task-tracker.gif) | [Source Code](https://github.com/karamanburak/Task-Tracker-React)
 
 </br>
