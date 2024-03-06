@@ -72,6 +72,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
 </div>
+<br>
+<br>
+
+
+<div  align="center">
+ <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
+<br/>
+     
+</div>
+
 
 ## My projects
   Project Name            |Libraries and Technologies I use     |How does my project look |Source Code
@@ -86,14 +96,4 @@
    [Checkout Page](https://github.com/karamanburak/Checkout-Page)| HTML <br> CSS <br> JavaScript <br> LocalStorage |![Checkout Page](https://github.com/karamanburak/karamanburak/assets/150926922/535afe8e-57a8-46fa-bebd-40bde32b425b)|[Source Code](https://github.com/karamanburak/Checkout-Page)
    [Countries Page](https://github.com/karamanburak/Checkout-Page)| HTML <br> CSS <br> JavaScript |![Countries page](https://github.com/karamanburak/karamanburak/assets/150926922/5fa9803f-ed0f-47d6-bd8b-d5d0b15a4775)|[Source Code](https://github.com/karamanburak/Countries-App)
    [Rock Paper Scissors](https://karamanburak.github.io/Rock-Paper-Scissors/)| HTML <br> CSS <br> JavaScript <br> LocalStorage |![Rock Paper Scissors](https://github.com/karamanburak/karamanburak/assets/150926922/5ea77a4a-09de-4beb-8c3c-829a6fdb57c8)|[Source Code](https://github.com/karamanburak/Rock-Paper-Scissors)
-
-</br>
-<br>
-
-<div  align="center">
-
- <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
-<br/>
-     
-</div>
 
