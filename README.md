@@ -68,8 +68,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/ic![cinema-potsdam](https://github.com/karamanburak/karamanburak/assets/150926922/04beb0d7-cc38-416b-b1c6-54635dfb121f)
-ons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
 </div>
 
 ## My projects
