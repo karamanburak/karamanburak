@@ -77,12 +77,14 @@
 [Task Tracker React](https://task-tracker-w-react.netlify.app/)| React <br> React-Bootstrap <br> LocalStorage <br> React-Icons |![Task Tracker](https://raw.githubusercontent.com/karamanburak/Task-Tracker-React/main/src/components/helper/task-tracker.gif)|[Source Code](https://github.com/karamanburak/Task-Tracker-React)
    [Horoscope Page](https://horoscope-page-app.netlify.app/)| React <br> React-Bootstrap <br> SASS |![horoscope page](https://github.com/karamanburak/karamanburak/assets/150926922/9962f912-4e77-4d85-b912-4fa3f14ff08c)|[Source Code](https://github.com/karamanburak/React-Interview-Q-A)
    [React-Interview-Q-A](https://react-interview-questions-page.netlify.app/)| React <br> React-Bootstrap <br> SASS |![react accord](https://github.com/karamanburak/karamanburak/assets/150926922/d1699375-1572-49bf-80ca-e3783f354021)|[Source Code](https://github.com/karamanburak/React-Interview-Q-A)
-   [NBA Legends Page](https://hall-of-fame-legends-app.netlify.app/)| React <br> React-Bootstrap <br> Responsive |![nba legend]()|[Source Code](https://github.com/karamanburak/Nba-Legends-Page)
+   [NBA Legends Page](https://hall-of-fame-legends-app.netlify.app/)| React <br> React-Bootstrap <br> Responsive |![nba legend](https://github.com/karamanburak/karamanburak/assets/150926922/334f0a47-e226-44b9-a94f-ceb044fda522)|[Source Code](https://github.com/karamanburak/Nba-Legends-Page)
    [Cinema Potsdam](https://cinema-potsdam-page.netlify.app/)| HTML <br> CSS <br> JavaScript |![cinema potsdam]()|[Source Code](https://github.com/karamanburak/Cinema-Potsdam)
    [Wheather App](https://karamanburak.github.io/Wheather-App/)| HTML <br> CSS <br> JavaScript |![wheather app](https://github.com/karamanburak/karamanburak/assets/150926922/43b5a08d-f82a-4a9f-8ddb-a8e2100efef1)|[Source Code](https://github.com/karamanburak/Wheather-App?tab=readme-ov-file)
    [Todo App](https://karamanburak.github.io/Wheather-App/)| HTML <br> CSS <br> JavaScript <br> LocalStorage |![Todo app](https://github.com/karamanburak/karamanburak/assets/150926922/1a3cbd5b-3160-4303-9b7c-7baa58a4bf6a)|[Source Code](https://github.com/karamanburak/ToDo-App)
    [Checkout Page](https://karamanburak.github.io/Wheather-App/)| HTML <br> CSS <br> JavaScript <br> LocalStorage |![Checkout Page](https://github.com/karamanburak/karamanburak/assets/150926922/535afe8e-57a8-46fa-bebd-40bde32b425b)|[Source Code](https://github.com/karamanburak/Checkout-Page)
-   [Ios Calculator](https://karamanburak.github.io/IOS-Calculator/)| HTML <br> CSS <br> JavaScript |![ios calculator](https://github.com/karamanburak/karamanburak/assets/150926922/6ea6af9a-4259-4edb-8826-5c1e2b7dbf6e)|[Source Code](https://github.com/karamanburak/IOS-Calculator?tab=readme-ov-file)
+   [Countries Page]()| HTML <br> CSS <br> JavaScript |![Countries page](https://github.com/karamanburak/karamanburak/assets/150926922/5fa9803f-ed0f-47d6-bd8b-d5d0b15a4775)|[Source Code](https://github.com/karamanburak/Countries-App)
+   [Rock Paper Scissors](https://karamanburak.github.io/Rock-Paper-Scissors/)| HTML <br> CSS <br> JavaScript <br> LocalStorage |![Rock Paper Scissors](https://github.com/karamanburak/karamanburak/assets/150926922/5ea77a4a-09de-4beb-8c3c-829a6fdb57c8)|[Source Code](https://github.com/karamanburak/Rock-Paper-Scissors)
+
 </br>
 <br>
 
@@ -90,8 +92,5 @@
  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
 <br/>
      
-  
 </div>
 
-
-![horoscope-page]()
