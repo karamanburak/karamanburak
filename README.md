@@ -2,7 +2,8 @@
 
 ![header_](https://github.com/karamanburak/karamanburak/assets/150926922/c37b227b-cf5d-4a92-8f6b-b18827693fa9)
 
-## <img align="right"  src="personal.gif" width='200'/> 
+## <img align="right"  src="https://github.com/karamanburak/karamanburak/assets/150926922/0ea6c02a-a1c8-44f6-b0ef-929d696ddb30" width='200'/> 
+
 
 ### 👨‍💻 About Me
 
