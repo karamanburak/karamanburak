@@ -72,14 +72,14 @@
 </div>
 
 ## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look |Source Code
-:-------------------------|-------------------------|-------------------------|------------------
+  Project Name            |Libraries and Technologies I use     |How does my project look |Source Code
+:-------------------------|-------------------------------------|-------------------------|------------------
 [Task Tracker React](https://task-tracker-w-react.netlify.app/)| React <br> React-Bootstrap <br> LocalStorage <br> React-Icons |![Task Tracker](https://raw.githubusercontent.com/karamanburak/Task-Tracker-React/main/src/components/helper/task-tracker.gif)|[Source Code](https://github.com/karamanburak/Task-Tracker-React)
    [React-Interview-Q-A](https://horoscope-page-app.netlify.app/)| React <br> React-Bootstrap <br> SASS |![horoscope](https://github.com/karamanburak/karamanburak/assets/150926922/d1699375-1572-49bf-80ca-e3783f354021)|[Source Code](https://github.com/karamanburak/React-Interview-Q-A)
-   <!-- [NBA Legends Page](https://hall-of-fame-legends-app.netlify.app/)| React <br> React-Bootstrap <br> Responsive |![nba legend]()|[Source Code](https://github.com/karamanburak/Nba-Legends-Page) -->
-   <!-- [Cinema Potsdam](https://cinema-potsdam-page.netlify.app/)| HTML <br> CSS <br> JavaScript |![cinema potsdam]()|[Source Code](https://github.com/karamanburak/Cinema-Potsdam) -->
+   [NBA Legends Page](https://hall-of-fame-legends-app.netlify.app/)| React <br> React-Bootstrap <br> Responsive |![nba legend]()|[Source Code](https://github.com/karamanburak/Nba-Legends-Page)
+   [Cinema Potsdam](https://cinema-potsdam-page.netlify.app/)| HTML <br> CSS <br> JavaScript |![cinema potsdam]()|[Source Code](https://github.com/karamanburak/Cinema-Potsdam)
    [Wheather App](https://karamanburak.github.io/Wheather-App/)| HTML <br> CSS <br> JavaScript |![wheather app](https://github.com/karamanburak/karamanburak/assets/150926922/43b5a08d-f82a-4a9f-8ddb-a8e2100efef1)|[Source Code](https://github.com/karamanburak/Wheather-App?tab=readme-ov-file)
-   <!-- [Todo App](https://karamanburak.github.io/Wheather-App/)| HTML <br> CSS <br> JavaScript <br> LocalStorage |![Todo app]()|[Source Code](https://github.com/karamanburak/ToDo-App) -->
+   [Todo App](https://karamanburak.github.io/Wheather-App/)| HTML <br> CSS <br> JavaScript <br> LocalStorage |![Todo app]()|[Source Code](https://github.com/karamanburak/ToDo-App)
    [Checkout Page](https://karamanburak.github.io/Wheather-App/)| HTML <br> CSS <br> JavaScript <br> LocalStorage |![Checkout Page](https://github.com/karamanburak/karamanburak/assets/150926922/535afe8e-57a8-46fa-bebd-40bde32b425b)|[Source Code](https://github.com/karamanburak/Checkout-Page)
    [Ios Calculator](https://karamanburak.github.io/IOS-Calculator/)| HTML <br> CSS <br> JavaScript |![ios calculator](https://github.com/karamanburak/karamanburak/assets/150926922/fcb59089-d006-420c-9040-b212c46436d4)|[Source Code](https://github.com/karamanburak/IOS-Calculator?tab=readme-ov-file)
 </br>
