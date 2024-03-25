@@ -76,10 +76,10 @@
 <br>
 
 
-<div  align="center">
- <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=7&bg_color=000"/>
-<br/>
-     
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&hide_progress=false&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/beydah/beydah/blob/main/profile/repository.md)
+
 </div>
 
 
