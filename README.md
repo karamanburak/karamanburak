@@ -38,6 +38,10 @@
     <br> Css3
     </td>
     <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="65" height="50" alt="react logo"  />
+    <br> React
+    </td>
+    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=js" width="65" height="50" alt="javascript logo"  />
     <br> JavaScript
     </td>
@@ -57,10 +61,6 @@
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=sass" width="65" height="50" alt="bootstrap logo"  />
     <br> SASS
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="65" height="50" alt="react logo"  />
-    <br> React
     </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=redux" width="65" height="50" alt="redux logo"  />
