@@ -6,7 +6,7 @@
 ## <img align="right"  src="https://github.com/karamanburak/karamanburak/assets/150926922/0ea6c02a-a1c8-44f6-b0ef-929d696ddb30" width='200'/>
 
 
- 👨‍💻 About Me
+ ### 👨‍💻 About Me
 
 #### I am a front-end developer with backend knowledge based in Potsdam, Germany. I have passion for learning new concepts and technologies. My goal is to grow as a person by learning new skills and languages. I want to use that knowledge to solve real world problems and contribute to the community.
 
