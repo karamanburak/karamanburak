@@ -26,56 +26,102 @@
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img width="12" /> 
-   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+<table align="center">
+<div align="left" >
+ <tr>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="65" height="50" alt="html5 logo"  />
+    <br> Html5
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css"width="65" height="50" alt="css3 logo"  />
+    <br> Css3
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=js" width="65" height="50" alt="javascript logo"  />
+    <br> JavaScript
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=ts" width="65" height="50" alt="javascript logo"  />
+    <br> TypeScript
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="50" alt="bootstrap logo"  />
+    <br> Bootstrap
+    </td>
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="50" alt="bootstrap logo"  />
+    <br> Tailwind
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=sass" width="65" height="50" alt="bootstrap logo"  />
+    <br> SASS
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="65" height="50" alt="react logo"  />
+    <br> React
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redux" width="65" height="50" alt="redux logo"  />
+    <br> Redux
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=firebase"width="65" height="50" alt="firebase logo"  />
+    <br> FireBase
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=jquery"  width="65" height="50" alt="jquery logo"  />
+    <br> JQuery
+    </td>
+ </tr>
+ <tr>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" width="65" height="50" alt="git logo"  />
+    <br> Git
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github" width="65" height="50" alt="github logo"  />
+    <br> GitHub
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="50" alt="gitlab logo"  />
+    <br> GitLab
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
+    <br> PostgreSQL
+    </td>  
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb"  width="65" height="50" alt="mongodb logo"  />
+    <br> MongoDB
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postman"  width="65" height="50" alt="postman logo"  />
+    <br> PostMan
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=ai"  width="65" height="50" alt="adobeillustrator logo"  />
+    <br> Ai
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=figma"  width="65" height="50" alt="figma logo"  />
+    <br> Figma
+    <td align="center" width="96"> 
+    <img src="https://skillicons.dev/icons?i=nodejs"  width="65" height="50" alt="nodejs logo"  />
+    <br> NodeJs
+    </td>
+    <td align="center" width="96"> 
+    <img src="https://cdn.simpleicons.org/npm/CB3837"  width="65" height="50" alt="npm logo"  />
+    <br> Npm
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=visualstudio"  width="65" height="50" alt="visualstudio logo"  />
+    <br> VsCode
+    </td>
+ </tr>
 </div>
+</table>
 <br>
 </div>
 
