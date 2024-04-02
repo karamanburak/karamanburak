@@ -77,13 +77,7 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
 </div>
 <br>
-<br>
-<br><br>
-
-
 </div>
-<br>
-<br>
 
 
 <div align="center">
@@ -92,9 +86,6 @@
 
 </div>
 
-
-
-## My projects
   Project Name            |Libraries and Technologies I use     |How does my project look |Source Code
 :-------------------------|-------------------------------------|-------------------------|------------------
 [Recipe App](https://recipe-app-gamma-livid.vercel.app/)| React <br> React-Hooks <br> Styled Components <br> Local Storage |![recipe-app](https://github.com/karamanburak/karamanburak/assets/150926922/971ba04b-a0d5-4013-85a8-0382b74273e1)|[Source Code](https://github.com/karamanburak/recipe-app)
@@ -111,4 +102,3 @@
 [Checkout Page](https://github.com/karamanburak/Checkout-Page)| HTML <br> CSS <br> JavaScript <br> LocalStorage |![Checkout Page](https://github.com/karamanburak/karamanburak/assets/150926922/535afe8e-57a8-46fa-bebd-40bde32b425b)|[Source Code](https://github.com/karamanburak/Checkout-Page)
 [Countries Page](https://github.com/karamanburak/Checkout-Page)| HTML <br> CSS <br> JavaScript |![Countries page](https://github.com/karamanburak/karamanburak/assets/150926922/5fa9803f-ed0f-47d6-bd8b-d5d0b15a4775)|[Source Code](https://github.com/karamanburak/Countries-App)
 [Rock Paper Scissors](https://karamanburak.github.io/Rock-Paper-Scissors/)| HTML <br> CSS <br> JavaScript <br> LocalStorage |![Rock Paper Scissors](https://github.com/karamanburak/karamanburak/assets/150926922/5ea77a4a-09de-4beb-8c3c-829a6fdb57c8)|[Source Code](https://github.com/karamanburak/Rock-Paper-Scissors)
-
