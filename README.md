@@ -38,12 +38,16 @@
     <br> Css3
     </td>
     <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=js" width="65" height="50" alt="javascript logo"  />
+    <br> JavaScript
+    </td>
+    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=react" width="65" height="50" alt="react logo"  />
     <br> React
     </td>
     <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=js" width="65" height="50" alt="javascript logo"  />
-    <br> JavaScript
+    <img src="https://skillicons.dev/icons?i=vite" width="65" height="50" alt="react logo"  />
+    <br> React
     </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=ts" width="65" height="50" alt="javascript logo"  />
@@ -59,6 +63,10 @@
     <br> Tailwind
     </td>
     <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mui" width="65" height="50" alt="bootstrap logo"  />
+    <br> MUi
+    </td>
+    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=sass" width="65" height="50" alt="bootstrap logo"  />
     <br> SASS
     </td>
@@ -69,10 +77,6 @@
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=firebase"width="65" height="50" alt="firebase logo"  />
     <br> FireBase
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=jquery"  width="65" height="50" alt="jquery logo"  />
-    <br> JQuery
     </td>
  </tr>
  <tr>
@@ -87,6 +91,10 @@
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="50" alt="gitlab logo"  />
     <br> GitLab
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=jquery"  width="65" height="50" alt="jquery logo"  />
+    <br> JQuery
     </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
