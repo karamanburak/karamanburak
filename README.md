@@ -47,7 +47,7 @@
     </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vite" width="65" height="50" alt="react logo"  />
-    <br> React
+    <br> Vite
     </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=ts" width="65" height="50" alt="javascript logo"  />
@@ -74,12 +74,16 @@
     <img src="https://skillicons.dev/icons?i=redux" width="65" height="50" alt="redux logo"  />
     <br> Redux
     </td>
+ </tr>
+ <tr>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=firebase"width="65" height="50" alt="firebase logo"  />
     <br> FireBase
     </td>
- </tr>
- <tr>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=jquery"  width="65" height="50" alt="jquery logo"  />
+    <br> JQuery
+    </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=git" width="65" height="50" alt="git logo"  />
     <br> Git
@@ -87,14 +91,6 @@
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=github" width="65" height="50" alt="github logo"  />
     <br> GitHub
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="50" alt="gitlab logo"  />
-    <br> GitLab
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=jquery"  width="65" height="50" alt="jquery logo"  />
-    <br> JQuery
     </td>
     <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
@@ -120,11 +116,7 @@
     <br> NodeJs
     </td>
     <td align="center" width="96"> 
-    <img src="https://cdn.simpleicons.org/npm/CB3837"  width="65" height="50" alt="npm logo"  />
-    <br> Npm
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=visualstudio"  width="65" height="50" alt="visualstudio logo"  />
+    <img src="https://skillicons.dev/icons?i=vscode"  width="65" height="50" alt="npm logo"  />
     <br> VsCode
     </td>
  </tr>
