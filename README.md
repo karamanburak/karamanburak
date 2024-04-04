@@ -70,12 +70,12 @@
     <img src="https://skillicons.dev/icons?i=sass" width="65" height="50" alt="bootstrap logo"  />
     <br> SASS
     </td>
+ </tr>
+ <tr>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=redux" width="65" height="50" alt="redux logo"  />
     <br> Redux
     </td>
- </tr>
- <tr>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=firebase"width="65" height="50" alt="firebase logo"  />
     <br> FireBase
@@ -105,19 +105,11 @@
     <br> PostMan
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=ai"  width="65" height="50" alt="adobeillustrator logo"  />
-    <br> Ai
-    </td>
-    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=figma"  width="65" height="50" alt="figma logo"  />
     <br> Figma
     <td align="center" width="86"> 
     <img src="https://skillicons.dev/icons?i=nodejs"  width="65" height="50" alt="nodejs logo"  />
     <br> NodeJs
-    </td>
-    <td align="center" width="86"> 
-    <img src="https://skillicons.dev/icons?i=vscode"  width="65" height="50" alt="npm logo"  />
-    <br> VsCode
     </td>
  </tr>
 </div>
