@@ -29,93 +29,93 @@
 <table align="center">
 <div align="left" >
  <tr>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=html" width="65" height="50" alt="html5 logo"  />
     <br> Html5
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=css"width="65" height="50" alt="css3 logo"  />
     <br> Css3
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=js" width="65" height="50" alt="javascript logo"  />
     <br> JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=react" width="65" height="50" alt="react logo"  />
     <br> React
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=vite" width="65" height="50" alt="react logo"  />
     <br> Vite
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=ts" width="65" height="50" alt="javascript logo"  />
     <br> TypeScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="50" alt="bootstrap logo"  />
     <br> Bootstrap
     </td>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="50" alt="bootstrap logo"  />
     <br> Tailwind
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=mui" width="65" height="50" alt="bootstrap logo"  />
     <br> MUi
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=sass" width="65" height="50" alt="bootstrap logo"  />
     <br> SASS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=redux" width="65" height="50" alt="redux logo"  />
     <br> Redux
     </td>
  </tr>
  <tr>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=firebase"width="65" height="50" alt="firebase logo"  />
     <br> FireBase
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=jquery"  width="65" height="50" alt="jquery logo"  />
     <br> JQuery
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=git" width="65" height="50" alt="git logo"  />
     <br> Git
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=github" width="65" height="50" alt="github logo"  />
     <br> GitHub
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
     <br> PostgreSQL
     </td>  
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=mongodb"  width="65" height="50" alt="mongodb logo"  />
     <br> MongoDB
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=postman"  width="65" height="50" alt="postman logo"  />
     <br> PostMan
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=ai"  width="65" height="50" alt="adobeillustrator logo"  />
     <br> Ai
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=figma"  width="65" height="50" alt="figma logo"  />
     <br> Figma
-    <td align="center" width="96"> 
+    <td align="center" width="86"> 
     <img src="https://skillicons.dev/icons?i=nodejs"  width="65" height="50" alt="nodejs logo"  />
     <br> NodeJs
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="86"> 
     <img src="https://skillicons.dev/icons?i=vscode"  width="65" height="50" alt="npm logo"  />
     <br> VsCode
     </td>
