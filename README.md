@@ -126,6 +126,7 @@
 
   Project Name            |Libraries and Technologies I use     |How does my project look |Source Code
 :-------------------------|-------------------------------------|-------------------------|------------------
+[Movie App](https://recipe-app-gamma-livid.vercel.app/)| React <br> Firebase <br> tailwindcss <br> toastify |![movie-app](https://github.com/karamanburak/movie-app-react/assets/150926922/d1f623ba-4882-40b1-9555-26faefdac5b4)|[Source Code](https://github.com/karamanburak/movie-app-react)
 [Recipe App](https://recipe-app-gamma-livid.vercel.app/)| React <br> React-Hooks <br> Styled Components <br> Local Storage |![recipe-app](https://github.com/karamanburak/karamanburak/assets/150926922/971ba04b-a0d5-4013-85a8-0382b74273e1)|[Source Code](https://github.com/karamanburak/recipe-app)
 [Shopping Cart Web Page](https://shopping-cart-react-mockapi.vercel.app/)| React <br> React-Hooks <br> React-Bootstrap <br> React-Icons <br> mockapi <br> DataBase  |![shopping-cart](https://github.com/karamanburak/karamanburak/assets/150926922/88761e00-78e7-44ed-9b4f-04755afe1d47)|[Source Code](https://github.com/karamanburak/Shopping-Cart-React)
 [Random User App](https://random-user-generator-app.netlify.app/)| React <br> React-Bootstrap <br> React-Icons <br> API |![random-user-app](https://github.com/karamanburak/karamanburak/assets/150926922/df9536ec-4641-4c54-b712-c9b6c9a78c0c)|[Source Code](https://github.com/karamanburak/Random-User-Generator-App)
