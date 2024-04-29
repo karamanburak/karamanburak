@@ -117,7 +117,6 @@
 <br>
 </div>
 
-
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&hide_progress=false&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
@@ -126,6 +125,7 @@
 
   Project Name            |Libraries and Technologies I use     |How does my project look |Source Code
 :-------------------------|-------------------------------------|-------------------------|------------------
+[Smart Stock App](https://smartstock-management.vercel.app/)| React <br> React-redux <br> Redux-persist <br> Formik-Yup <br> Axios-instance <br> Mui <br> Toastify   |![smartstock app](https://github.com/karamanburak/karamanburak/assets/150926922/2b3eea66-c1e7-470b-9fd6-e6ce2bb82f53)|[Source Code](https://github.com/karamanburak/stock-management-app)
 [Movie App](https://movie-app-react-gilt.vercel.app/)| React <br> React-redux <br> Firebase <br> Tailwindcss <br> Toastify |![movie-app](https://github.com/karamanburak/movie-app-react/assets/150926922/d1f623ba-4882-40b1-9555-26faefdac5b4)|[Source Code](https://github.com/karamanburak/movie-app-react)
 [Recipe App](https://recipe-app-gamma-livid.vercel.app/)| React <br> React-Hooks <br> Styled Components <br> Local Storage |![recipe-app](https://github.com/karamanburak/karamanburak/assets/150926922/971ba04b-a0d5-4013-85a8-0382b74273e1)|[Source Code](https://github.com/karamanburak/recipe-app)
 [Shopping Cart Web Page](https://shopping-cart-react-mockapi.vercel.app/)| React <br> React-Hooks <br> React-Bootstrap <br> React-Icons <br> mockapi <br> DataBase  |![shopping-cart](https://github.com/karamanburak/karamanburak/assets/150926922/88761e00-78e7-44ed-9b4f-04755afe1d47)|[Source Code](https://github.com/karamanburak/Shopping-Cart-React)
