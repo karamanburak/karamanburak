@@ -12,7 +12,7 @@
 
 **My developer career started in 2023, and it goes on...**
 <br>
-**Currently, I am focusing on React, Javascript, Tailwind, Bootstrap, SASS...**
+**Currently, I am focusing on React, Javascript, Node.js **
 
 <br></br>
 
