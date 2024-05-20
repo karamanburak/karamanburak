@@ -10,9 +10,9 @@
 
 #### I am a front-end developer with back-end knowledge based in Potsdam, Germany. I have passion for learning new concepts and technologies. My goal is to grow as a person by learning new skills and languages. I want to use that knowledge to solve real world problems and contribute to the community.
 
-**My developer career started in 2023, and it goes on...**
+🚀 My developer career started in 2023, and it goes on...
 <br>
-**Currently, I am focusing on React, Javascript, Node.js **
+📑 Currently, I am focusing on React, Javascript, Node.js 
 
 <br></br>
 
