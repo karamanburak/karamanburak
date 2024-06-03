@@ -126,7 +126,6 @@
 
   Project Name            |Libraries and Technologies I use     |How does my project look |Source Code
 :-------------------------|-------------------------------------|-------------------------|------------------
-[Bloggy App](https://bloggiie.vercel.app/)| React <br> React-redux <br> Redux-persist <br> Formik-Yup <br> Axios-instance <br> Mui <br> Toastify <br> Database |![Bloggy app](https://github.com/karamanburak/karamanburak/assets/150926922/37f85249-3850-4d8d-8400-cd8c2da878f6)|[Source Code](https://github.com/karamanburak/bloggy-app)
 [Smart Stock](https://smartstock-management.vercel.app/)| React <br> React-redux <br> Redux-persist <br> Formik-Yup <br> Axios-instance <br> Mui <br> Toastify   |![smartstock app](https://github.com/karamanburak/karamanburak/assets/150926922/2b3eea66-c1e7-470b-9fd6-e6ce2bb82f53)|[Source Code](https://github.com/karamanburak/stock-management-app)
 [Movie App](https://movie-app-react-gilt.vercel.app/)| React <br> React-redux <br> Firebase <br> Tailwindcss <br> Toastify |![movie-app](https://github.com/karamanburak/movie-app-react/assets/150926922/d1f623ba-4882-40b1-9555-26faefdac5b4)|[Source Code](https://github.com/karamanburak/movie-app-react)
 [Recipe App](https://recipe-app-gamma-livid.vercel.app/)| React <br> React-Hooks <br> Styled Components <br> Local Storage |![recipe-app](https://github.com/karamanburak/karamanburak/assets/150926922/971ba04b-a0d5-4013-85a8-0382b74273e1)|[Source Code](https://github.com/karamanburak/recipe-app)
