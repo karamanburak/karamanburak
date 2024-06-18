@@ -1,30 +1,27 @@
-<h3> Hello There! I'm Burak<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h3>
 
 ![header_](https://github.com/karamanburak/karamanburak/assets/150926922/c37b227b-cf5d-4a92-8f6b-b18827693fa9)
 
 
-## <img align="right"  src="https://github.com/karamanburak/karamanburak/assets/150926922/0ea6c02a-a1c8-44f6-b0ef-929d696ddb30" width='200'/>
 
+### <img align="right"  src="https://github.com/karamanburak/karamanburak/assets/150926922/0ea6c02a-a1c8-44f6-b0ef-929d696ddb30" width='200'/>
 
- ### 👨‍💻 About Me
+<h3> Hi There, I'm Burak<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h3>
+<hr>
 
-#### I am a Software Engineer based in Potsdam, Germany. I have passion for learning new concepts and technologies. My goal is to grow as a person by learning new skills and languages. I want to use that knowledge to solve real world problems and contribute to the community.
-
-- 🚀 My developer career started in 2023, and it goes on...
- 
-- 🌱 Currently, I am focusing on React, Javascript, Node.js
-
-
-<br></br>
+<p>
+ 👨‍💻 I am a Software Engineer based in Potsdam, Germany. I have passion for learning new concepts and technologies. My goal is to grow as a person by learning new skills and languages. I want to use that knowledge to solve real world problems and contribute to the community.
+ <br>
+ <br>
+ 📚 Currently, I am focusing React, TypeScript on Frontend, Node.js, MongoDB on Backend.
+ <br>
+ 💭 Ask me anything about from <a href="https://github.com/issues" title="Issues">Here</a>
+</p>
 
 ## Connect with me
-
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karamanburak/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:karaman.buraak@gmail.com)
 
 </br>
-
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 <table align="center">
