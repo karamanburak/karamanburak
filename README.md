@@ -14,7 +14,7 @@
  <br>
  📚 Currently, I am focusing React, TypeScript on Frontend, Node.js, MongoDB on Backend.
  <br>
- 💭 Ask me anything about from <a href="https://github.com/issues" title="Issues">Here</a>
+ 💭 Ask me anything about from <a href="https://github.com/karamanburak/karamanburak/issues" title="Issues">Here</a>
 </p>
 
 ## Connect with me
