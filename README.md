@@ -1,5 +1,4 @@
 
-![header_](https://github.com/karamanburak/karamanburak/assets/150926922/c37b227b-cf5d-4a92-8f6b-b18827693fa9)
 
 
 
