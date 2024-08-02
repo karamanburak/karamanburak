@@ -116,7 +116,8 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&hide_progress=false&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&layout=compact&langs_count=10&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
 
 </div>
 
