@@ -118,12 +118,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&layout=compact&langs_count=10&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-
 </div>
 
   Project Name            |Libraries and Technologies I use     |How does my project look |Source Code
 :-------------------------|-------------------------------------|-------------------------|------------------
-[Bloggy](https://bloggiie.vercel.app/)| React <br> React-redux <br> Redux-persist <br> Formik-Yup <br> Axios-instance <br> Mui <br> Toastify   |![Bloggy app](https://github.com/karamanburak/karamanburak/assets/150926922/7d344f62-0348-48bb-bce5-e15db1bb8106)|[Source Code](https://github.com/karamanburak/bloggy-app)
+[Bloggy](https://bloggiie.vercel.app/)| React <br> React-redux <br> Redux-persist <br> Formik-Yup <br> Axios-instance <br> Mui <br> Toastify   |![Bloggy app](https://github.com/user-attachments/assets/f1f9a927-285b-42e3-bbde-56782dd1ace9)|[Source Code](https://github.com/karamanburak/bloggy-app)
 [Smart Stock](https://smartstock-management.vercel.app/)| React <br> React-redux <br> Redux-persist <br> Formik-Yup <br> Axios-instance <br> Mui <br> Toastify   |![smartstock app](https://github.com/karamanburak/karamanburak/assets/150926922/2b3eea66-c1e7-470b-9fd6-e6ce2bb82f53)|[Source Code](https://github.com/karamanburak/stock-management-app)
 [Movie App](https://cinemaparadiso.vercel.app/)| React <br> React-redux <br> Firebase <br> Tailwindcss <br> Toastify |![movie-app](https://github.com/karamanburak/movie-app-react/assets/150926922/d1f623ba-4882-40b1-9555-26faefdac5b4)|[Source Code](https://github.com/karamanburak/movie-app-react)
 [Recipe App](https://recipy.vercel.app/)| React <br> React-Hooks <br> Styled Components <br> Local Storage |![recipe-app](https://github.com/karamanburak/karamanburak/assets/150926922/971ba04b-a0d5-4013-85a8-0382b74273e1)|[Source Code](https://github.com/karamanburak/recipe-app)
