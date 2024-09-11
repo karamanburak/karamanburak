@@ -1,10 +1,8 @@
 
 
 
-
-### <img align="right"  src="https://github.com/karamanburak/karamanburak/assets/150926922/0ea6c02a-a1c8-44f6-b0ef-929d696ddb30" width='200'/>
-
 <h3> Hi There, I'm Burak<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h3>
+<img align="right"  src="https://github.com/karamanburak/karamanburak/assets/150926922/0ea6c02a-a1c8-44f6-b0ef-929d696ddb30" width='200'/>
 <hr>
 
 <p>
