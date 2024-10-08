@@ -10,9 +10,9 @@
 
 - 🌱 I'm currently working with **React, TypeScript, Node.js, and MongoDB** in my projects.
 
-- 👨‍💻 All of my projects are available at [www.karamanburak.com](www.karamanburak.com)
+- 👨‍💻 All of my projects are available at on my [portfolio](https://www.karamanburak.com/en)
 
- - 💭 Ask me anything about from <a href="https://github.com/karamanburak/karamanburak/issues" title="Issues">Here</a>
+ - 💭 Ask me anything about from <a href="https://github.com/karamanburak/karamanburak/issues" title="Issues">here</a>
 
 
 ## Connect with me
