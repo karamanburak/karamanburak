@@ -7,12 +7,9 @@
 
 
 - 🔭 I’m currently working on [Volunteerium](https://github.com/volunteerium-de)
-
-- 🌱 I'm currently working with **React, TypeScript, Node.js, and MongoDB** in my projects.
-
-- 👨‍💻 All of my projects are available at on my [portfolio](https://www.karamanburak.com/en)
-
- - 💭 Ask me anything about from <a href="https://github.com/karamanburak/karamanburak/issues" title="Issues">here</a>
+- 🌱 I'm working with **React, TypeScript, Node.js, and MongoDB** in my projects.
+- 👨‍💻  You can explore my works on my [portfolio](https://www.karamanburak.com/en)
+ - 💭 Feel free to ask me anything <a href="https://github.com/karamanburak/karamanburak/issues" title="Issues">here</a>
 
 
 ## Connect with me
