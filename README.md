@@ -5,14 +5,15 @@
 <img align="right"  src="https://github.com/karamanburak/karamanburak/assets/150926922/0ea6c02a-a1c8-44f6-b0ef-929d696ddb30" width='200'/>
 <hr>
 
-<p>
- 👨‍💻 I am a Software Engineer based in Potsdam, Germany. I have passion for learning new concepts and technologies. My goal is to grow as a person by learning new skills and languages. I want to use that knowledge to solve real world problems and contribute to the community.
- <br>
- <br>
- 📚 Currently, I am focusing React, TypeScript on Frontend, Node.js, MongoDB on Backend.
- <br>
- 💭 Ask me anything about from <a href="https://github.com/karamanburak/karamanburak/issues" title="Issues">Here</a>
-</p>
+
+- 🔭 I’m currently working on [Volunteerium](https://github.com/volunteerium-de)
+
+- 🌱 I'm currently working with **React, TypeScript, Node.js, and MongoDB** in my projects.
+
+- 👨‍💻 All of my projects are available at [www.karamanburak.com](www.karamanburak.com)
+
+ - 💭 Ask me anything about from <a href="https://github.com/karamanburak/karamanburak/issues" title="Issues">Here</a>
+
 
 ## Connect with me
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karamanburak/)
