@@ -6,10 +6,7 @@
 <hr>
 
 
-- 🔭 I’m currently working on Volunteerium 
-- 🌍 Website: [volunteerium.com](https://volunteerium.com/)
-- 🔧 GitHub Repository: [volunteerium](https://github.com/volunteerium-de)
-- 🌱 I'm working with **React, TypeScript, Node.js, and MongoDB** in my projects.
+- 🌱 I'm working with **React, TypeScript, Next.js, Node.js, and MongoDB** in my projects.
 - 👨‍💻  You can explore my works on my [portfolio](https://www.karamanburak.com/en)
  - 💭 Feel free to ask me anything <a href="https://github.com/karamanburak/karamanburak/issues" title="Issues">here</a>
 
