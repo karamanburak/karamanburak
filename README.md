@@ -45,6 +45,10 @@
     <img src="https://skillicons.dev/icons?i=ts" width="65" height="50" alt="javascript logo"  />
     <br> TypeScript
     </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="50" alt="nextjs logo"  />
+    <br> NextJS
+    </td>
     <td align="center" width="86"> 
     <img src="https://skillicons.dev/icons?i=nodejs"  width="65" height="50" alt="nodejs logo"  />
     <br> NodeJs
@@ -53,7 +57,9 @@
     <img src="https://skillicons.dev/icons?i=php"  width="65" height="50" alt="php logo"  />
     <br> PHP
     </td>
-    <td align="center" width="86">
+ </tr>
+ <tr>
+     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
     <br> PostgreSQL
     </td>  
@@ -61,8 +67,10 @@
     <img src="https://skillicons.dev/icons?i=mongodb"  width="65" height="50" alt="mongodb logo"  />
     <br> MongoDB
     </td>
- </tr>
- <tr>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=firebase"width="65" height="50" alt="firebase logo"  />
+    <br> FireBase
+    </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="50" alt="bootstrap logo"  />
     <br> Tailwind
@@ -81,24 +89,8 @@
     <br> SASS
     </td>
     <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=firebase"width="65" height="50" alt="firebase logo"  />
-    <br> FireBase
-    </td>
-    <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=jquery"  width="65" height="50" alt="jquery logo"  />
-    <br> JQuery
-    </td>
-    <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=git" width="65" height="50" alt="git logo"  />
     <br> Git
-    </td>
-    <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=github" width="65" height="50" alt="github logo"  />
-    <br> GitHub
-    </td>
-    <td align="center" width="86">
-    <img src="https://skillicons.dev/icons?i=postman"  width="65" height="50" alt="postman logo"  />
-    <br> PostMan
     </td>
     <td align="center" width="86">
     <img src="https://skillicons.dev/icons?i=figma"  width="65" height="50" alt="figma logo"  />
