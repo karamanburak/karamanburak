@@ -29,6 +29,7 @@
 <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
 <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+<br>
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
 <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
