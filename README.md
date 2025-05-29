@@ -20,25 +20,25 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
-<img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=react" alt="React" />
-<img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
-<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>
+<img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux"/>
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP"/>
 <br>
-<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-<img src="https://skillicons.dev/icons?i=mui" alt="Material-UI" />
-<img src="https://skillicons.dev/icons?i=sass" alt="Sass" />
-<img src="https://skillicons.dev/icons?i=git" alt="Git" />
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
+<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase"/>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=mui" alt="Material-UI" title="Material-UI"/>
+<img src="https://skillicons.dev/icons?i=sass" alt="Sass" title="Sass"/>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma"/>
 
 </div>
 <br>
