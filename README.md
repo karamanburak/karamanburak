@@ -44,11 +44,4 @@
 <br>
 </div>
 
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamanburak&layout=compact&langs_count=6&title_color=7a7877&icon_color=4C566A&text_color=7a7877&bg_color=00000000&card_width=300" alt="Top Langs" />
-</p>
-
-</div>
 
